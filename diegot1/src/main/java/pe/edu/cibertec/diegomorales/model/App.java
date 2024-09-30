@@ -1,4 +1,4 @@
-package pe.edu.cibertec.diegomorales;
+package pe.edu.cibertec.diegomorales.model;
 
 /**
  * Hello world!
